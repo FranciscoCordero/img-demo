@@ -1,8 +1,0 @@
-#group,false,false,false,false,false,false,false
-#datatype,string,long,string,string,double,double,double
-#default,last,,,,,,
-,result,table,CRC_OK,Service ID,LATITUDE,LONGITUDE,ALTITUDE
-,,0,1,0,-37.99,-57.5646,1.9999999999999998
-,,0,1,0,47.50602491558355,51.58158646870753,1.9999999999999998
-,,0,1,0,0,0,1.9999999999999998
-
